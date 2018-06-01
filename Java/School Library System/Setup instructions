@@ -1,0 +1,6 @@
+1.import SQL file to a local server with the following settings
+  hostname: localhost
+  username: slibrary
+  password: ssj123
+  database: slibrary
+2.unzip folder and open on any IDE while local server is running to enable the data retrieval from the database
